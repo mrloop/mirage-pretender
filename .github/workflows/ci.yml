@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - em-test-run-ci
   pull_request: {}
 
 concurrency:
